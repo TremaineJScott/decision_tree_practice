@@ -1,0 +1,108 @@
+Movie,Writer,Actor,Genre,Opinion
+Bullet Train,Zak Olkewicz,Brad Pitt,Action Comedy,like
+Once Upon a Time in Hollywood,Quentin Tarantino,Brad Pitt,Comedy Drama,like
+War Machine,Michael Hastings,Brad Pitt,Comedy Drama,dislike
+War Machine,Michael Hastings,Daniel Betts,Comedy Drama,dislike
+War Machine,Michael Hastings,John Magaro,Comedy Drama,dislike
+MoneyBall,Steven Zaillian,Brad Pitt,Biography Drama,dislike
+MoneyBall,Steven Zaillian,Jonah Hill,Biography Drama,dislike
+Inglourious Basterds,Quentin Tarantino,Brad Pitt,Adventure Drama,like
+Inglourious Basterds,Quentin Tarantino,Eli Roth,Adventure Drama,like
+The Curious Case of Benjamin Button,Eric Roth,Brad Pitt,Drama Fantasy,like
+Burn After Reading,Joel Coen,Brad Pitt,Comedy Crime,like
+Once Upon a Time in Hollywood,Quentin Tarantino,Leonardo DiCaprio,Comedy Drama,like
+Bullet Train,Zak Olkewicz,Joey King,Action Comedy,like
+Bullet Train,Zak Olkewicz,Aaron Taylor-Johnson,Action Comedy,like
+Burn After Reading,Joel Coen,George Clooney,Comedy Crime,like
+Burn After Reading,Joel Coen,John Malkovich,Comedy Crime,like
+Happiness for Beginners,Katherine Center,Luke Grimes,Romantic Comedy,dislike
+The Pale Blue Eye,Scott Cooper,Christian Bale,Drama Thriller,like
+Glass Onion,Rian Johnson,Daniel Craig,Comedy Mystery,like
+Glass Onion,Rian Johnson,Edward Norton,Comedy Mystery,like
+I Used to Be Famous,Eddie Sternberg,Ed Skrein,Music Drama,like
+Jung E,Yeon Sang-ho,Kang Soo-youn,Korean Sci-Fi,like
+Burnt,Michael Kalesniko,Bradley Cooper,Drama,dislike
+Kate,Umair Aleem,Woody Harrelson,Action Adventure,like
+Mr. Right,Max Landis,Sam Rockwell,Quirky Romance,like
+Mr. Right,Max Landis,Tim Roth,Quirky Romance,like
+Enola Holmes,Harry Bradbeer,Henry Cavill,Drama Mystery,dislike
+Sorry To Bother You,Boots Riley,Terry Crews,Sci-Fi Satire,dislike
+Margin Call,J.C. Chandor,Kevin Spacey,Drama Independent,dislike
+Margin Call,J.C. Chandor,Paul Bettany,Drama Independent,dislike
+Margin Call,J.C. Chandor,Jeremy Irons,Drama Independent,dislike
+The Gray Man,Joe Russo,Ryan Gosling,Action Adventure,like
+The Gray Man,Joe Russo,Chris Evans,Action Adventure,like
+The Nice Guys,Shane Black,Russel Crowe,Dark Comedy,like
+The Nice Guys,Shane Black,Ryan Gosling,Dark Comedy,like
+R I P D,Robert Schwentke,Jeff Bridges,Comedy Action,dislike
+R I P D,Robert Schwentke,Ryan Reynolds,Comedy Action,dislike
+R I P D,Robert Schwentke,Kevin Bacon ,Comedy Action,dislike
+Purple Hearts,Kyle Jarrow,Sofia Carson,Music Drama,dislike
+Begin Again,John Carney,Mark Ruffalo,Music Drama,like
+The Gentlemen,Ivan Atkinson,Matthew McConaughey,Comedy Action,like
+The Gentlemen,Ivan Atkinson,Colin Farrel,Comedy Action,like
+Worth,Max Borenstein,Michael Keaton,Drama,dislike
+iBoy,Joe Barton,Bill Milner,Sci-Fi Thriller,dislike
+The Adam Project ,Jonathan Tropper,Ryan Reynolds,Sci-Fi Comedy,like
+The Adam Project ,Jonathan Tropper,Mark Ruffalo,Sci-Fi Comedy,like
+Midnight in Paris,Woody Allen,Owen Wilson,Romantic Comedy,dislike
+Hell or High Water,Taylor Sheriden,Jeff Bridges,Drama Independent,like
+Hell or High Water,Taylor Sheriden,Chris Pine,Drama Independent,like
+Hell or High Water,Taylor Sheriden,Ben Foster,Drama Independent,like
+The Lost Daughter,Maggie Gyllenhaal,Olivia Colman,Drama independent,dislike
+Trial of Chicago 7,Aaron Sorkin,Sacha Baron Cohen,Drama Courtroom,dislike
+Trial of Chicago 7,Aaron Sorkin,Eddie Redmayne,Drama Courtroom,dislike
+tick tick boom,Steven Levenson,Andrew Garfield,Music Drama,like
+Wind River,Taylor Sheriden,Jeremy Renner,Drama independent,like
+Wind River,Taylor Sheriden,Jon Bernthal,Drama independent,like
+Power Of Dog,Jane Campion,Benedict Cumberbatch,Drama Western,dislike
+Don't Look Up,Adam McKay,Leonardo DiCaprio,Sci-Fi Drama,dislike
+About Darkest Hour,Anthony McCarten,Gary Oldman,Military Drama,dislike
+Eye In The Sky,Guy Hibbert,Aaron Paul,Military Drama,dislike
+Homefront,Sylvester Stallone,Jason Statham,Action Adventure,like
+Homefront,Sylvester Stallone,James Franco,Action Adventure,like
+Red Notice,Rawson Marshall Thurber,Dwayne Johnson,Comedy Action,dislike
+Red Notice,Rawson Marshall Thurber,Ryan Reynolds,Comedy Action,dislike
+The Losers,Peter Berg,Jeffery Dean Morgan,Action Adventure,like
+The Losers,Peter Berg,Chris Evans,Action Adventure,like
+The Losers,Peter Berg,Idris Elba,Action Adventure,like
+I Care a Lot,J Blakeson,Peter Dinklage,Satire,dislike
+Blue Miracle,Julio Quintana,Jimmy Gonzales,Drama Spirituality,dislike
+State of Play,Matthew Michael Carnahan,Russel Crowe,Thriller Mystery,dislike
+State of Play,Matthew Michael Carnahan,Ben Affleck,Thriller Mystery,dislike
+Concrete Cowboy,Ricky Staub,Idris Elba,Drama Independent,dislike
+Peppermint,Chad St. John,Jennifer Garner,Action Adventure,like
+Peppermint,Chad St. John,John Ortiz,Action Adventure,like
+Ava,Matthew Newton,Jessica Chastain,Drama Action,like
+Ava,Matthew Newton,Colin Farrel,Drama Action,like
+Ava,Matthew Newton,John Malkovich,Drama Action,like
+Unknown,Oliver Butcher,Liam Neeson,Action Adventure,like
+Red Sea Diving,Gideon Raff,Chris Evans,Drama Thriller,like
+Red Sea Diving,Gideon Raff,Michael Kenneth Williams,Drama Thriller,like
+Code 8,Jeff Chan,Robbie Amell,Sci-Fi Action,like
+Colombiana,Luc Besson,Zoe Saldana,Action Adventure,like
+The Take,Andrew Baldwin,Idris Elba,Action Adventure,like
+The Take,Andrew Baldwin,Richard Madden,Action Adventure,like
+Project Power,Mattson Tomlin,Jamie Foxx,Sci-Fi Action,like
+Project Power,Mattson Tomlin,Joeseph Gordon-Levitt,Sci-Fi Action,like
+The Heartbreak Kid,Bobby Farrelly,Ben Stiller,Romantic Comedy,dislike
+The Gift,Joel Edgerton,Jason Bateman,Thriller Mystery,dislike
+Due Date,Alan Cohen,Robert Downey Jr.,Comedy,dislike
+Due Date,Alan Cohen,Zach Galifianakis,Comedy,dislike
+Snow Piercer,Bong Joon Ho,Chris Evans,Korean Sci-Fi,like
+Extraction,Joe Russo,Chris Hemsworth,Action Adventure,like
+Uncut Gems,Ronald Bronstein,Adam Sandler,Drama Thriller,dislike
+Bright,Max Landis,Will Smith,Action adventure,like
+Uncharted,Rafe Judkins,Tom Holland,Action adventure,like
+Uncharted,Rafe Judkins,Mark Wahlberg,Action adventure,like
+Spenser Confidential,Sean O'Keefe,Mark Wahlberg,Dark Comedy,like
+I Don't Feel At Home,Macon Blair,Elijah Wood,Drama independent,like
+Death of Stalin,Armando Iannucci,Steve Buscemi,Satire Comedy,dislike
+Taken,Luc Besson,Liam Neeson,Action Adventure,like
+Hunters Prayer,John Brancato,Sam Worthington,Independent Action,like
+Riot,Spanky Dustin Ward,Matthew Reese,Action Adventure,like
+Riot,Spanky Dustin Ward,Dolph Lundgren,Action Adventure,like
+Polar,Jayson RothWell,Mads Mikkelsen,Action Adventure,like
+Freaks,Zach Lipovsky,Bruce Dern,Sci-Fi Thriller,like
+The Foreinger,David Marconi,Jacke Chan,Action Adventure,like
+The Foreinger,David Marconi,Pierce Brosnan,Action Adventure,like
